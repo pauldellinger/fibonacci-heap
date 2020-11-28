@@ -38,7 +38,7 @@ Here are some quotes about how complicated they are:
 > -- [Standford CS116 slides on Fibonacci Heaps](http://web.stanford.edu/class/archive/cs/cs166/cs166.1166/lectures/09/Small09.pdf)
 
 
-> There is a better solution using Fibonacci Heaps, which is a data structure we are not going to talk about here... O( m log n) is the best run time you can do.
+> There is a better solution using Fibonacci Heaps, which is a data structure we are not going to talk about here... O( m n log n) is the best run time you can do.
 > -- Debmalya Panigrahi, Duke CS330 lecture, Fall 2020
 
 ## For when I have more time:
