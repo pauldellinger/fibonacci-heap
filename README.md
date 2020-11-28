@@ -41,8 +41,8 @@ Here are some quotes about how complicated they are:
 > There is a better solution using Fibonacci Heaps, which is a data structure we are not going to talk about here... O( m log n) is the best run time you can do.
 > -- Debmalya Panigrahi, Duke CS330 lecture, Fall 2020
 
-##For when I have more time:
+## For when I have more time:
 - write out proof of run time
 - Implement Dijkstra's
 - Strict Fibonacci Heap's and other types of heaps
-- comparison pf algorithms on road data
+- comparison of algorithms on road data
