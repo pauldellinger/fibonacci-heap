@@ -145,11 +145,4 @@ class FibHeap:
 
 
 if __name__ == '__main__':
-    dll = DLL()
-    # dll.insert(Node(3))
-    # dll.insert(Node(5))
-    # dll.insert(Node(6))
-    nodes = dll.getLayerList(Node(3))
-    #print(next(nodes))
-    for node in nodes:
-        print(node.key)
+    pass
